@@ -21,4 +21,11 @@ public class lhc {
 
         //红色 未追踪代码  绿色 ：暂存区  黑色：已提交本地库 蓝色 ：已提交本地库后 又发生了修改且未提交
     }
+    public void test(){
+        for(i=0,i<5;i++){
+            i=i*i;
+            System.out.prinltn(i)
+        }
+    }
+
 }
